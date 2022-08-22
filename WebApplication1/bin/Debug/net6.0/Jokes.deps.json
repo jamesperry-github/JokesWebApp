@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "WebApplication1/1.0.0": {
+      "Jokes/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.8",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8",
@@ -16,7 +16,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.8"
         },
         "runtime": {
-          "WebApplication1.dll": {}
+          "Jokes.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -2310,7 +2310,7 @@
     }
   },
   "libraries": {
-    "WebApplication1/1.0.0": {
+    "Jokes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
